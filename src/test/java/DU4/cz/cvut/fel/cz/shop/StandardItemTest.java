@@ -1,6 +1,5 @@
-package DU4.cz.cvut.fel.cz.archive.shop;
+package DU4.cz.cvut.fel.cz.shop;
 
-import DU4.cz.cvut.fel.cz.shop.StandardItem;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;

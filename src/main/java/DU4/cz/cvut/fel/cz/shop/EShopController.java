@@ -1,6 +1,6 @@
 package DU4.cz.cvut.fel.cz.shop;
 
-import DU4.cz.cvut.fel.cz.archive.PurchasesArchive;
+import DU4.cz.cvut.fel.cz.PurchasesArchive;
 import DU4.cz.cvut.fel.cz.storage.NoItemInStorage;
 import DU4.cz.cvut.fel.cz.storage.Storage;
 

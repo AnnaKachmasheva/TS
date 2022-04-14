@@ -1,8 +1,7 @@
-package DU4.cz.cvut.fel.cz.archive.storage;
+package DU4.cz.cvut.fel.cz.storage;
 
-import DU4.cz.cvut.fel.cz.archive.shop.Generator;
+import DU4.cz.cvut.fel.cz.shop.Generator;
 import DU4.cz.cvut.fel.cz.shop.StandardItem;
-import DU4.cz.cvut.fel.cz.storage.ItemStock;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;

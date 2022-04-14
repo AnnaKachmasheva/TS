@@ -1,4 +1,4 @@
-package DU4.cz.cvut.fel.cz.archive;
+package DU4.cz.cvut.fel.cz;
 
 import DU4.cz.cvut.fel.cz.shop.Item;
 

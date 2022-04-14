@@ -1,9 +1,6 @@
-package DU4.cz.cvut.fel.cz.archive.shop;
+package DU4.cz.cvut.fel.cz.shop;
 
-import DU4.cz.cvut.fel.cz.archive.ItemPurchaseArchiveEntry;
-import DU4.cz.cvut.fel.cz.shop.Order;
-import DU4.cz.cvut.fel.cz.shop.ShoppingCart;
-import DU4.cz.cvut.fel.cz.shop.StandardItem;
+import DU4.cz.cvut.fel.cz.ItemPurchaseArchiveEntry;
 
 import java.util.ArrayList;
 import java.util.HashMap;

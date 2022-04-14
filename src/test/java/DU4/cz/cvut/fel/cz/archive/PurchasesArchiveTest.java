@@ -1,8 +1,8 @@
-package DU4.cz.cvut.fel.cz.archive.archive;
+package DU4.cz.cvut.fel.cz.archive;
 
-import DU4.cz.cvut.fel.cz.archive.ItemPurchaseArchiveEntry;
-import DU4.cz.cvut.fel.cz.archive.PurchasesArchive;
-import DU4.cz.cvut.fel.cz.archive.shop.Generator;
+import DU4.cz.cvut.fel.cz.PurchasesArchive;
+import DU4.cz.cvut.fel.cz.ItemPurchaseArchiveEntry;
+import DU4.cz.cvut.fel.cz.shop.Generator;
 import DU4.cz.cvut.fel.cz.shop.Item;
 import DU4.cz.cvut.fel.cz.shop.Order;
 import DU4.cz.cvut.fel.cz.shop.ShoppingCart;
