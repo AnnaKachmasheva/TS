@@ -1,4 +1,4 @@
-package cz.cvut.fel.ts1;
+package DU1.cz.cvut.fel.ts1;
 
 public class Kachamnn {
 
